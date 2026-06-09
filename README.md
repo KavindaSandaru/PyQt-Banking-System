@@ -117,21 +117,27 @@ python main.py
 
 ## 📸 Screenshots
 
+### Login Page
+
+<img width="541" height="627" alt="image" src="https://github.com/user-attachments/assets/b815ae04-7c38-4574-994e-72a5fd55e605" />
+
 ### Dashboard
 
-Add dashboard screenshot here.
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/5dde1e38-6a86-4459-8fa3-beae2ca4171e" />
+<img width="1916" height="1032" alt="image" src="https://github.com/user-attachments/assets/01667d6d-f273-433d-97ae-9a40779467e7" />
 
 ### Deposit Page
 
-Add deposit screenshot here.
+<img width="1918" height="1031" alt="image" src="https://github.com/user-attachments/assets/014e2df4-749a-42d7-8f54-70b63a830dda" />
 
 ### Transfer Page
 
-Add transfer screenshot here.
+<img width="1911" height="1028" alt="image" src="https://github.com/user-attachments/assets/f0fe9437-247c-4890-89be-44d85c152944" />
 
 ### Transaction History
 
-Add transaction history screenshot here.
+<img width="1916" height="1029" alt="image" src="https://github.com/user-attachments/assets/811e521d-d5c6-4b7f-9055-546dd48c095b" />
+<img width="1918" height="1032" alt="image" src="https://github.com/user-attachments/assets/3aedd7a1-fcd7-4030-abc9-dcbc8bf9e74f" />
 
 ---
 
